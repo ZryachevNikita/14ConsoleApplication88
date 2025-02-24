@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "Hello Niser!\n";
+    std::cout << "Press Alt+F4\n";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
